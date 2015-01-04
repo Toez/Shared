@@ -1,0 +1,6 @@
+c:\users\tommy\documents\visual studio 2013\Projects\GravityBalls\GravityBalls\GravityBalls\obj\x86\Debug\GravityBalls.csprojResolveAssemblyReference.cache
+c:\users\tommy\documents\visual studio 2013\Projects\GravityBalls\GravityBalls\GravityBalls\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\tommy\documents\visual studio 2013\Projects\GravityBalls\GravityBalls\GravityBalls\bin\x86\Debug\GravityBalls.exe
+c:\users\tommy\documents\visual studio 2013\Projects\GravityBalls\GravityBalls\GravityBalls\bin\x86\Debug\GravityBalls.pdb
+c:\users\tommy\documents\visual studio 2013\Projects\GravityBalls\GravityBalls\GravityBalls\obj\x86\Debug\GravityBalls.exe
+c:\users\tommy\documents\visual studio 2013\Projects\GravityBalls\GravityBalls\GravityBalls\obj\x86\Debug\GravityBalls.pdb
